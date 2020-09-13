@@ -5,7 +5,7 @@
  The approach to solving this problem is to understand when & why a resident might fail to comply with a blight ticket. In order to get this I predicted if a given blight ticket will be paid on time or not using Gradient Boosting Classifier and AUC score for evaluating the model.
 
 
-# [Project 2: Research on companies on Yelp]
+# [Project 2: Research on companies on Yelp] (https://github.com/Holarh/Project-2/blob/master/README.md)
 
   In this project, I did some analysis and i made inferences based on some particular questions using SQLite.
   
