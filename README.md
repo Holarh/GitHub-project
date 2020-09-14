@@ -5,7 +5,9 @@
  The approach to solving this problem is to understand when & why a resident might fail to comply with a blight ticket. In order to get this I predicted if a given blight ticket will be paid on time or not using Gradient Boosting Classifier and AUC score for evaluating the model.
 
 
-![](/Images/maintenance-fee.jpg)
+![](https://github.com/Holarh/Work/blob/master/Images/maintenance-fee.jpg)
+
+
 
 
 
