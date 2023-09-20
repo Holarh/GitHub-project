@@ -20,4 +20,4 @@
   then I predicted the major reasons why some businesses close down by comparing closed and active business.
   Lastly, I analyze the star rating and number of reviews to know popular food companies in Yelp.
 
-# [On going/Incomlete codes](https://github.com/Holarh/Python.git)
+# [On going/Incomplete codes](https://github.com/Holarh/Python.git)
