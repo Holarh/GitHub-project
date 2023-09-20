@@ -19,3 +19,5 @@
   then I compared the difference between business with high star rating and business with low star rating.
   then I predicted the major reasons why some businesses close down by comparing closed and active business.
   Lastly, I analyze the star rating and number of reviews to know popular food companies in Yelp.
+
+# [On going/Incomlete codes](https://github.com/Holarh/Python.git)
